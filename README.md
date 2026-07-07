@@ -1,5 +1,5 @@
 # 💫 About Me:
-Iam Ganesh Currently pursuing Degree Final Year and  BCA undergraduate with a strong foundation in HTML, CSS, JavaScript, SQL, and modern web frameworks. I have hands-on experience building responsive web applications and enjoy solving problems through clean, user-focused design. I am eager to apply my technical skills and continue growing in a collaborative, real-world development environment.
+Aspiring professional with a strong academic background in Computer Applications and hands-on experience in software development, project execution, and collaborative problem-solving. Proficient in programming, data analysis, technical documentation, and stakeholder communication. Demonstrates adaptability, analytical thinking, and a commitment to delivering high-quality results. Seeking internship opportunities to apply technical and professional skills while contributing to organizational growth and innovat
 
 
 ## 🌐 Socials:
